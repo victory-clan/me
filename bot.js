@@ -27,3 +27,5 @@ const iKhaled = ['413597534187945986','413597534187945986'];
        }
   
   });
+
+client.login(process.env.BOT_TOKEN);
