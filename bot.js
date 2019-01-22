@@ -1,3 +1,5 @@
+const Discord = require("discord.js");
+const client = new Discord.Client();
 const iKhaled = ['413597534187945986','413597534187945986'];
 
 
